@@ -1,8 +1,3 @@
-Got it! Here's a **well-formatted, professional README.md** version with proper headings, spacing, and Markdown syntax for GitHub. You can copy and paste this directly into your `README.md` file.
-
----
-
-```md
 # 📱 React Native Expense Tracker Wallet
 
 A mobile wallet app built with React Native that helps users track income and expenses in a clean, intuitive interface. It supports visual insights and budget management, making personal finance simple and accessible.
@@ -92,24 +87,3 @@ DATABASE_URL=your_neon_postgres_url
 Made with ❤️ by [Shreyas Suryawanshi](https://github.com/shreyassurya)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-### ✅ How it Looks on GitHub
-
-- Headings (`#`, `##`) will appear bold and large
-- Bullet lists, code blocks, and links are properly formatted
-- Demo video is clickable
-- Clean sectioning with horizontal lines
-
-Let me know if you want to:
-- Add images/screenshots
-- Include API documentation
-- Write a section for FAQs or Contribution Guide
-```
