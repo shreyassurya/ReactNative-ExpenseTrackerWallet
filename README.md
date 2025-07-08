@@ -1,4 +1,4 @@
-** ## 📱 React Native Expense Tracker Wallet**
+#📱 React Native Expense Tracker Wallet
 
 A mobile wallet app built with React Native that helps users track income and expenses in a clean, intuitive interface. It supports visual insights and budget management, making personal finance simple and accessible.
 
